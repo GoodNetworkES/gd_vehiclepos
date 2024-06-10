@@ -7,3 +7,5 @@ Move the "gd_vehiclepos" folder to your "resources" folder type: start gd_vehicl
 
 PREVIEW
 https://youtu.be/2MYiLmAGmgk
+
+@GoodNetworkES
