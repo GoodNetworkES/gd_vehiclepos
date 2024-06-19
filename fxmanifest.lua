@@ -6,5 +6,5 @@ description 'gd_vehiclepos'
 version '1.0.0'
 
 client_script 'client/client.lua'
-server_script 'sever/server.lua'
+server_script 'server/server.lua'
 shared_script 'config.lua'
